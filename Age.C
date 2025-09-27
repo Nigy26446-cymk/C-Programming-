@@ -1,7 +1,7 @@
 /*
 Name: Gabriel Kariuki
 Reg No: CT101/G/26446/25
-Decription: C Program to display the surfce area of a cylinder
+Decription: C Program to display age
 */
 
 #include <stdio.h>
@@ -15,4 +15,5 @@ int age;
    printf("You are %d years old", age);
 	
 	return 0; 
+
 }
