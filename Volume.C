@@ -1,7 +1,7 @@
 /*
 Name: Gabriel Kariuki
 Reg No: CT101/G/26446/25
-Decription: C Program to display the surfce area of a cylinder
+Decription: C Program to display the volume of a cylinder
 */
 
 #include <stdio.h>
@@ -23,3 +23,4 @@ int main () {
  
  	return 0; 
 }
+
