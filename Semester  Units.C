@@ -1,7 +1,7 @@
 /*
 Name: Gabriel Kariuki
 Reg No: CT101/G/26446/25
-Description:
+Description:C Program to display units offered this semester 
 */
 
 #include <stdio.h>
@@ -16,4 +16,5 @@ int main()
 	printf("5. Software Engineering\n");
 	
 	return 0;
+
 }
