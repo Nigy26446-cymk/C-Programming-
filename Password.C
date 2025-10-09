@@ -1,7 +1,8 @@
 /*
 NAME : GABRIEL KARIUKI
 REG NO. : CT101/G/26446/25
-DESCRIPTION : A C Program that uses do while loop to prompt the user to enter the correct password to log in*/
+DESCRIPTION : A C Program that uses do while loop to prompt the user to enter the correct password to log in
+*/
 
 #include <stdio.h>
 
@@ -17,4 +18,5 @@ int main() {
     printf("Access Granted\n");
 
     return 0;
+
 }
